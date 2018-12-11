@@ -1,0 +1,4 @@
+# Programming-Motion
+Project for Sensor Based Interaction class. Using OpenFrameworks.
+
+I followed the Progamming Motion assignment guidelines and created a planetary system based on the real solar system. There are 8 planets and 9 distinct moons, each differently coloured. Some planets have multiple moons orbiting them. The planets follow a circular path around the sun, but their moons have elliptical orbits. This is since having elliptical orbits for all the planets caused a lot of collisions to occur and it did not look as visually appealing. While the planets are paths drawn in the code, the spaceship and the boxes are images because it was difficult for me to draw a spaceship using the path shapes and I needed access to anchor points. The spaceship is controlled by the mouse via a click or drag and the boxes follow behind it.
